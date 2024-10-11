@@ -5,7 +5,7 @@
 da [DIO](https://dio.me).
 
 
-Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
+Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover minha autoridade técnica.
 
 <a href="https://web.dio.me/articles/spring-security-protegendo-aplicacoes-de-forma-eficiente?back=%2Farticles&open-modal=true&page=1&order=oldest"> 📕Clique aqui para ler o artigo</a>
 
